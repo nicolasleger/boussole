@@ -23,6 +23,7 @@ Metrics/BlockLength:
     - app/views/**/*
     - config/initializers/**/*
     - config/environments/**/*
+    - config/routes.rb
     - lib/tasks/**/*
     - spec/**/*
 
