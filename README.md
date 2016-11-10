@@ -35,3 +35,7 @@ bundle exec rake changelog
 ### Consulter la guide de styles
 
 Visitez ```/styleguides```
+
+### Tenancy (ou pas)
+
+Pour l'instant, la Boussole fonctionne à partir des « rhizomes » : chaque territoire dit d'expérimentation est une Boussole indépendante. Exemple en est ```reims```, ```couressonne```, etc.
